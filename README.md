@@ -7,6 +7,6 @@
 - Dart
 - C
 - C++
-- c#
+- C#
 - Java
 - JavaScript
