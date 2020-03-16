@@ -19,4 +19,14 @@ void main() {
   } else {
     print("It was false above");
   }
+  //  int x = 10;
+  //  while (x >= 1){
+  //    print("$x");
+  //    x--;
+  //  }
+  // complementary to while loop
+  for (int x = 10; x >= 1; x--){
+    print("$x");
+  }
+
 }
