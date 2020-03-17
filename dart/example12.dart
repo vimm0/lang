@@ -94,7 +94,7 @@ class Complex {
 class Quaternion extends Complex {
   num jImage;
 
-  Quaternion(num rel,
+  Quaternion(num real,
       num imaginary,
       this.jImage,) : super(
     real,
